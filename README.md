@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mirza-mahfuj-hossain-0595331b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mirza-mahfuj-hossain-0595331b5/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/mirzamahfujhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mirzamahfujhossain" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mirza-mahfuj-hossain-0595331b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mirza-mahfuj-hossain-0595331b5/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mirzamahfujhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mirzamahfujhossain" height="30" width="40" /></a>
   <a href="https://scholar.google.com/citations?user=GpCi6VYAAAAJ&hl=en" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="https://scholar.google.com/citations?user=GpCi6VYAAAAJ&hl=en" height="30" width="40" /></a>
 </p>
 
