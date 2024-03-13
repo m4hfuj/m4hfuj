@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahfuj Hossain</h1>
 <h3 align="center">A passionate Artificial Intelligence and Deep Learning Developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m4hfuj" alt="m4hfuj" /></a> </p>
 
-- 🌱 I’m currently learning **Usage of Image Processing in Medical Imaging**
 
-- 💬 Ask me about **Machine Leaning, Deep Learning**
+- 🌱 I’m currently learning **Usage of Image Processing in Medical Imaging.**
+
+- 💬 Ask me about **Machine Leaning, Deep Learning, Python, Data Visualization.**
 
 - 📫 How to reach me **mhmirza.just@gmail.com**
 
