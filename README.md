@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahfuj Hossain</h1>
-<h3 align="left">A passionate Artificial Intelligence and Deep Learning Developer.</h3>
+<h3 align="left">A passionate Artificial Intelligence and Deep Learning Researcher and Developer.</h3>
 
 
 
-- 🌱 I’m currently learning **Usage of Image Processing in Medical Imaging.**
+- 🌱 I’m currently learning about the **Usage of Image Processing in Medical Imaging.**
 
-- 💬 Ask me about **Machine Leaning, Deep Learning, Python, Data Visualization.**
+- 💬 Ask me about **Machine Learning, Deep Learning, Python, Data Visualization.**
 
 - 📫 How to reach me **mhmirza.just@gmail.com**
 
