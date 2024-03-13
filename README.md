@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Mahfuj Hossain</h1>
-<h3 align="center">A passionate Artificial Intelligence and Deep Learning Developer.</h3>
+<h3 align="left">A passionate Artificial Intelligence and Deep Learning Developer.</h3>
 
 
 
