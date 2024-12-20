@@ -54,7 +54,9 @@ license plates from real-time video footage. It employs YOLO object detection
 models to locate license plates and extract alphanumeric data. Applications 
 include vehicle tracking and recording entry and exit times in a database.
 
-![Automatic License Plate Recognition](assets/project-alpr.gif)
+<!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
+<img src="assets/project-alpr.gif" width="600" height="250">
+
 
 
 
@@ -65,7 +67,9 @@ object detection, tracking, team assignments, and ball control analysis. The pro
 advanced computer vision techniques to process game footage, delivering detailed insights 
 through annotations and statistics.
 
-![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif)
+<!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
+<img src="assets/project-Football-Game-Analysis.gif" width="600" height="250">
+
 
 
 
@@ -87,7 +91,8 @@ web technologies. It involves collecting and processing ID card images and annot
 training an YOLO object detection model, and integrating it with a web application for 
 real-time validation.
 
-![project-Student-ID-Card-validity](assets/project-Student-ID-Card-validity.png)
+<!-- ![project-Student-ID-Card-validity](assets/project-Student-ID-Card-validity.png) -->
+<img src="assets/project-Student-ID-Card-validity.png" width="600" height="250">
 
 
 
