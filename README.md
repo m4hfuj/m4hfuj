@@ -11,12 +11,12 @@ techniques employed
 ### Teck stack for Projects 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux terminal-E95420?logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux_terminal-E95420?logo=Linux&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-121011?logo=github&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-CC3333?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit learn-29ABE2?logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-29ABE2?logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-0078d7?logo=mysql&logoColor=white)
