@@ -1,4 +1,4 @@
-# Machine Learning Portfolio 💥
+# Machine Learning Portfolio 🤖👩🏻‍💻
 
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
 machine learning projects in various domains, demonstrating my skills and expertise 
@@ -8,7 +8,7 @@ techniques employed
 
 
 
-### Teck stack for Projects 
+## 🛠️ Tech Stack for Projects 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux_terminal-E95420?logo=Linux&logoColor=white)
@@ -39,7 +39,7 @@ techniques employed
 - [<ins><b>©2023 Mirza Mahfuj Hossain. All rights reserved</b></ins>]()
 --- -->
 
-## Projects
+## 🎯 Projects
 
 Welcome to my Machine Learning Portfolio! This repository showcases my skills and 
 experience in the field of Machine Learning. Here, you will find a collection of 
@@ -47,7 +47,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [Project 1: Automatic License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+### [Project 1: 🚗 Automatic License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
@@ -60,7 +60,7 @@ include vehicle tracking and recording entry and exit times in a database.
 
 
 
-### [Project 2: Football Game Analysis using Computer Vision](https://github.com/m4hfuj/football-game-analysis)
+### [Project 2: ⚽ Football Game Analysis using Computer Vision](https://github.com/m4hfuj/football-game-analysis)
 
 This repository contains a robust pipeline for analyzing football game videos, focusing on 
 object detection, tracking, team assignments, and ball control analysis. The program leverages 
@@ -73,7 +73,7 @@ through annotations and statistics.
 
 
 
-### [Project 3: Bangladeshi Tech Job Listing](https://github.com/m4hfuj/football-game-analysis)
+### [Project 3: 🕵️ Bangladeshi Tech Job Query](https://github.com/m4hfuj/football-game-analysis)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
@@ -84,7 +84,7 @@ packages, with filtering options by job field.
 
 
 
-### [Project 4: Student ID Card validity checker](https://github.com/m4hfuj/Student-ID-card-validity-checker)
+### [Project 4: 🪪 Student ID Card validity checker](https://github.com/m4hfuj/Student-ID-card-validity-checker)
 
 This project is designed to validate student ID cards using machine learning and 
 web technologies. It involves collecting and processing ID card images and annotaing them, 
@@ -96,7 +96,7 @@ real-time validation.
 
 
 
-### [Project 5: Fine-tuning microsoft phi-2 model on medicine data](https://github.com/m4hfuj/Large-Language-Models/blob/main/Fine%20Tuning%20microsoft%20phi-2%20on%20medicine%20dataset.ipynb)
+### [Project 5: 🤖 Fine-tuning microsoft phi-2 model on medicine data](https://github.com/m4hfuj/Large-Language-Models/blob/main/Fine%20Tuning%20microsoft%20phi-2%20on%20medicine%20dataset.ipynb)
 
 Fine-tuned the Microsoft Phi-2 model on medical data by adapting its pre-trained 
 capabilities to domain-specific tasks like medical text classification and summarization. 
@@ -107,7 +107,7 @@ medicine details based on disease symptoms.
 
 
 
-## Machine Learning / Deep Learning
+## 🌐 Machine Learning / Deep Learning 
 
 I have spent a lot of time diving deep into various machine learning and deep learning algorithms, 
 learning both the theory behind them and how to implement them in code. This 
@@ -137,6 +137,34 @@ highlighting the range of skills I have developed in this area.
 
 
 
+## 📜 Certificates
+Here is the certificate that I achieved:
+
+#### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63)]
+
+<!-- <img src="assets/certificate.png" width="600" height="350"> -->
+<!-- View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63) -->
+
+#### Data Science:
+
+**Course: What is Data Science?** [[View Certificate] (https://coursera.org/share/a4d919405211a9917d5d29cfed9c59c6)]
+**Course: Tools for Data Science** [[View Certificate] (https://coursera.org/share/2548a4c77d89bd3d14c66cb833818939)]
+
+#### Projects:
+
+**Deep Learning with PyTorch : Object Localization** [[View Certificate] (https://coursera.org/share/34443c99168a26d83c717a936be6f69d)]
+**Deep Learning with PyTorch : Image Segmentation** [[View Certificate] (https://coursera.org/share/ab304e46f58e0a6ed8bdc9e4dedd3915)]
+**Command Line in Linux** [[View Certificate] (https://coursera.org/share/ce2bf70b6a149f69428c3f706f0e9b90)]
+**Basic Image Classification with TensorFlow** [[View Certificate] (https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
 
 
 
+## 📝 Author
+
+[Mirza Mahfuj Hossain](https://github.com/m4hfuj)
+📧 mhmirza.just@gmail.com  
+🐦 [LinkedIn](https://www.linkedin.com/in/mirza-mahfuj-hossain/)
+
+---
+© 2024 Mirza Mahfuj Hossain. All rights reserved.
+---
