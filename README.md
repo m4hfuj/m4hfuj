@@ -1,4 +1,6 @@
-# Machine Learning Portfolio 🤖👩🏻‍💻
+
+
+# Machine Learning Portfolio 🤖👨‍💻
 
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
 machine learning projects in various domains, demonstrating my skills and expertise 
@@ -138,7 +140,8 @@ highlighting the range of skills I have developed in this area.
 
 
 ## 📜 Certificates
-Here is the certificate that I achieved:
+
+Here is some certificates that I achieved:
 
 #### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63)]
 
@@ -148,13 +151,17 @@ Here is the certificate that I achieved:
 #### Data Science:
 
 **Course: What is Data Science?** [[View Certificate] (https://coursera.org/share/a4d919405211a9917d5d29cfed9c59c6)]
+
 **Course: Tools for Data Science** [[View Certificate] (https://coursera.org/share/2548a4c77d89bd3d14c66cb833818939)]
 
 #### Projects:
 
 **Deep Learning with PyTorch : Object Localization** [[View Certificate] (https://coursera.org/share/34443c99168a26d83c717a936be6f69d)]
+
 **Deep Learning with PyTorch : Image Segmentation** [[View Certificate] (https://coursera.org/share/ab304e46f58e0a6ed8bdc9e4dedd3915)]
+
 **Command Line in Linux** [[View Certificate] (https://coursera.org/share/ce2bf70b6a149f69428c3f706f0e9b90)]
+
 **Basic Image Classification with TensorFlow** [[View Certificate] (https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
 
 
@@ -162,9 +169,10 @@ Here is the certificate that I achieved:
 ## 📝 Author
 
 [Mirza Mahfuj Hossain](https://github.com/m4hfuj)
+
 📧 mhmirza.just@gmail.com  
+
 🐦 [LinkedIn](https://www.linkedin.com/in/mirza-mahfuj-hossain/)
 
----
-© 2024 Mirza Mahfuj Hossain. All rights reserved.
----
+
+#### © 2024 Mirza Mahfuj Hossain. All rights reserved.
