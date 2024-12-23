@@ -49,7 +49,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [Project 1: 🚗 Automatic License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+### [Project 1: 🚍 Automatic Vehicle License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
 
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
@@ -75,7 +75,7 @@ through annotations and statistics.
 
 
 
-### [Project 3: 🕵️ Bangladeshi Tech Job Query](https://github.com/m4hfuj/football-game-analysis)
+### [Project 3: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/football-game-analysis)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
@@ -109,7 +109,7 @@ medicine details based on disease symptoms.
 
 
 
-## 🌐 Machine Learning / Deep Learning 
+## 🧮 Machine Learning / Deep Learning 
 
 I have spent a lot of time diving deep into various machine learning and deep learning algorithms, 
 learning both the theory behind them and how to implement them in code. This 
@@ -150,19 +150,19 @@ Here is some certificates that I achieved:
 
 #### Data Science:
 
-**Course: What is Data Science?** [[View Certificate] (https://coursera.org/share/a4d919405211a9917d5d29cfed9c59c6)]
+**Course: What is Data Science?** [[View Certificate](https://coursera.org/share/a4d919405211a9917d5d29cfed9c59c6)]
 
-**Course: Tools for Data Science** [[View Certificate] (https://coursera.org/share/2548a4c77d89bd3d14c66cb833818939)]
+**Course: Tools for Data Science** [[View Certificate](https://coursera.org/share/2548a4c77d89bd3d14c66cb833818939)]
 
 #### Projects:
 
-**Deep Learning with PyTorch : Object Localization** [[View Certificate] (https://coursera.org/share/34443c99168a26d83c717a936be6f69d)]
+**Deep Learning with PyTorch : Object Localization** [[View Certificate](https://coursera.org/share/34443c99168a26d83c717a936be6f69d)]
 
-**Deep Learning with PyTorch : Image Segmentation** [[View Certificate] (https://coursera.org/share/ab304e46f58e0a6ed8bdc9e4dedd3915)]
+**Deep Learning with PyTorch : Image Segmentation** [[View Certificate](https://coursera.org/share/ab304e46f58e0a6ed8bdc9e4dedd3915)]
 
-**Command Line in Linux** [[View Certificate] (https://coursera.org/share/ce2bf70b6a149f69428c3f706f0e9b90)]
+**Command Line in Linux** [[View Certificate](https://coursera.org/share/ce2bf70b6a149f69428c3f706f0e9b90)]
 
-**Basic Image Classification with TensorFlow** [[View Certificate] (https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
+**Basic Image Classification with TensorFlow** [[View Certificate](https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
 
 
 
@@ -172,7 +172,7 @@ Here is some certificates that I achieved:
 
 📧 mhmirza.just@gmail.com  
 
-🐦 [LinkedIn](https://www.linkedin.com/in/mirza-mahfuj-hossain/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mirza-mahfuj-hossain/)
 
 
 #### © 2024 Mirza Mahfuj Hossain. All rights reserved.
