@@ -75,7 +75,7 @@ through annotations and statistics.
 
 
 
-### [Project 3: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/football-game-analysis)
+### [Project 3: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
@@ -83,6 +83,8 @@ LLM-based text classification, while educational requirements, programming
 languages, and packages are identified using regular expressions. A dashboard 
 visualizes the top 10 educational requirements, programming languages, and 
 packages, with filtering options by job field.
+
+<img src="assets/project-Tech-Job-Query.png" width="600" height="250">
 
 
 
