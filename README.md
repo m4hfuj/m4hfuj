@@ -49,7 +49,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [Project 1: 🚍 Automatic Vehicle License Plate Recognition](https://github.com/tushar2704/Sales-for-Retail-and-Food-Services)
+### [Project 1: 🚍 Automatic Vehicle License Plate Recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
 
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
