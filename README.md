@@ -1,6 +1,6 @@
 
 
-# Machine Learning Portfolio 🤖👨‍💻
+# Machine Learning Portfolio 🤖
 
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
 machine learning projects in various domains, demonstrating my skills and expertise 
