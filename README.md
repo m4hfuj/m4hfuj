@@ -88,25 +88,24 @@ packages, with filtering options by job field.
 
 
 
-### [Project 4: 🪪 Student ID Card validity checker](https://github.com/m4hfuj/Student-ID-card-validity-checker)
+<!-- ### [Project 4: 🪪 Student ID Card validity checker](https://github.com/m4hfuj/Student-ID-card-validity-checker)
 
 This project is designed to validate student ID cards using machine learning and 
 web technologies. It involves collecting and processing ID card images and annotaing them, 
 training an YOLO object detection model, and integrating it with a web application for 
 real-time validation.
 
-<!-- ![project-Student-ID-Card-validity](assets/project-Student-ID-Card-validity.png) -->
-<img src="assets/project-Student-ID-Card-validity.png" width="600" height="250">
+<img src="assets/project-Student-ID-Card-validity.png" width="600" height="250"> -->
 
 
 
-### [Project 5: 🤖 Fine-tuning microsoft phi-2 model on medicine data](https://github.com/m4hfuj/Large-Language-Models/blob/main/Fine%20Tuning%20microsoft%20phi-2%20on%20medicine%20dataset.ipynb)
+<!-- ### [Project 4: 🤖 Fine-tuning microsoft phi-2 model on medicine data](https://github.com/m4hfuj/Large-Language-Models/blob/main/Fine%20Tuning%20microsoft%20phi-2%20on%20medicine%20dataset.ipynb)
 
 Fine-tuned the Microsoft Phi-2 model on medical data by adapting its pre-trained 
 capabilities to domain-specific tasks like medical text classification and summarization. 
 This allowed me to enhance the model's performance, leveraging its advanced natural 
 language understanding for healthcare applications, allowing it to generate recommended 
-medicine details based on disease symptoms.
+medicine details based on disease symptoms. -->
 
 
 
