@@ -141,14 +141,15 @@ highlighting the range of skills I have developed in this area.
 
 
 
-## 📜 Certificates
+<!-- ## 📜 Certificates
 
-Here is some certificates that I achieved:
+Here is some certificates that I achieved: -->
 
 #### Machine Learning Specialization (DeepLearning.AI) [[View Certificate](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63)]
 
-<!-- <img src="assets/certificate.png" width="600" height="350"> -->
-<!-- View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63) -->
+<!-- 
+<img src="assets/certificate.png" width="600" height="350">
+View it online: [Certificate Link](https://coursera.org/share/1fe452302aaab3d09a03d8394e07db63)
 
 #### Data Science:
 
@@ -166,7 +167,7 @@ Here is some certificates that I achieved:
 
 **Basic Image Classification with TensorFlow** [[View Certificate](https://coursera.org/share/d4e4f32a781f2aade35ed126eb2fe00a)]
 
-
+ -->
 
 ## 📝 Author
 
