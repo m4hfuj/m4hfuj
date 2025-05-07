@@ -120,22 +120,22 @@ list of the machine learning algorithms and techniques I am familiar with,
 highlighting the range of skills I have developed in this area.
 
 
-    - ![Machine Learning Algorithms](https://github.com/m4hfuj/Machine-Learning-Algorithms): In this repository, 
-      I have implemented fundamental machine learning algorithms from scratch, without using any libraries or 
-      packages. It is a hands-on way I have explored the basics of these algorithms.
-    
-    - ![Computer Vision Algorithms](https://github.com/m4hfuj/Computer-Vision-Algorithms): This repository 
-      contains some of the computer vision algorithms I have worked on, including image classification, 
-      object detection, and image segmentation. These implementations use frameworks like PyTorch and 
-      TensorFlow, which I have gained hands-on experience with.
-    
-    - ![Unsupervised Learning Algorithms](https://github.com/m4hfuj/unsupervised-learning): I have implemented 
-      several unsupervised learning algorithms, including a recommendendation system. It is a project where I explore 
-      how to handle and derive insights from data without labeled examples.
-    
-    - ![Large Language Models](https://github.com/m4hfuj/Large-Language-Models): This repository contains 
-      code for loading, encoding, and fine-tuning large language models (LLMs). It reflects my work on 
-      adapting pre-trained models for various natural language processing tasks.
+- ![Machine Learning Algorithms](https://github.com/m4hfuj/Machine-Learning-Algorithms): In this repository, 
+  I have implemented fundamental machine learning algorithms from scratch, without using any libraries or 
+  packages. It is a hands-on way I have explored the basics of these algorithms.
+
+- ![Computer Vision Algorithms](https://github.com/m4hfuj/Computer-Vision-Algorithms): This repository 
+  contains some of the computer vision algorithms I have worked on, including image classification, 
+  object detection, and image segmentation. These implementations use frameworks like PyTorch and 
+  TensorFlow, which I have gained hands-on experience with.
+
+- ![Unsupervised Learning Algorithms](https://github.com/m4hfuj/unsupervised-learning): I have implemented 
+  several unsupervised learning algorithms, including a recommendendation system. It is a project where I explore 
+  how to handle and derive insights from data without labeled examples.
+
+- ![Large Language Models](https://github.com/m4hfuj/Large-Language-Models): This repository contains 
+  code for loading, encoding, and fine-tuning large language models (LLMs). It reflects my work on 
+  adapting pre-trained models for various natural language processing tasks.
     
 
 
