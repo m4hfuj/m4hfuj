@@ -74,8 +74,21 @@ through annotations and statistics.
 
 
 
+### [Project 3: 🙂 FaceStream: Face recognition and Filters on faces](https://github.com/m4hfuj/FaceStream/tree/version-6)
 
-### [Project 3: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
+This Python project processes live video from a webcam or YouTube stream, detecting 
+faces and applying filters in real time. It uses YOLOv8 for face detection,
+InceptionResnetV1 (Facenet) for recognition, and Mediapipe for accurate landmark 
+mapping. With an intuitive PyQt5 interface, users can input YouTube links, 
+upload photos, and save recognized faces, enabling a seamless and interactive 
+experience.
+
+<img src="assets/project-Tech-Job-Query.png" width="600" height="250">
+
+
+
+
+### [Project 4: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
