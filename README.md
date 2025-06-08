@@ -83,7 +83,7 @@ mapping. With an intuitive PyQt5 interface, users can input YouTube links,
 upload photos, and save recognized faces, enabling a seamless and interactive 
 experience.
 
-<img src="assets/project-Tech-Job-Query.png" width="600" height="250">
+<img src="assets/project-facestream.gif" width="600" height="250">
 
 
 
