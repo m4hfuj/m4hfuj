@@ -72,7 +72,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [🚍 vehicle license plate recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
+### [🚍 Vehicle license plate recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
 
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
@@ -85,7 +85,7 @@ include vehicle tracking and recording entry and exit times in a database.
 
 
 
-### [⚽ football game analysis using computer vision](https://github.com/m4hfuj/football-game-analysis)
+### [⚽ Football game analysis using computer vision](https://github.com/m4hfuj/football-game-analysis)
 
 This repository contains a robust pipeline for analyzing football game videos, focusing on 
 object detection, tracking, team assignments, and ball control analysis. The program leverages 
@@ -97,7 +97,7 @@ through annotations and statistics.
 
 
 
-### [🙂 face detection and recognition using yolov8 facenet](https://github.com/m4hfuj/FaceStream/tree/version-6)
+### [🙂 Face detection and recognition using yolov8 facenet](https://github.com/m4hfuj/FaceStream/tree/version-6)
 
 This Python project processes live video from a webcam or YouTube stream, detecting 
 faces and applying filters in real time. It uses YOLOv8 for face detection,
@@ -111,7 +111,7 @@ experience.
 
 
 
-### [🔎 bangladeshi tech job query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
+### [🔎 Bangladeshi tech job data analysis from bdjobs](https://github.com/m4hfuj/bangladeshi-tech-job-query)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
