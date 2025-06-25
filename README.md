@@ -72,7 +72,7 @@ projects and analyses that demonstrate my ability to extract insights and make
 data-driven decisions through Machine Learning.
 
 
-### [Project 1: 🚍 Automatic Vehicle License Plate Recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
+### [🚍 vehicle license plate recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
 
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
@@ -80,12 +80,12 @@ models to locate license plates and extract alphanumeric data. Applications
 include vehicle tracking and recording entry and exit times in a database.
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
-<img src="assets/project-alpr.gif" width="600" height="250">
+<img src="assets/project-alpr.gif" width="600">
 
 
 
 
-### [Project 2: ⚽ Football Game Analysis using Computer Vision](https://github.com/m4hfuj/football-game-analysis)
+### [⚽ football game analysis using computer vision](https://github.com/m4hfuj/football-game-analysis)
 
 This repository contains a robust pipeline for analyzing football game videos, focusing on 
 object detection, tracking, team assignments, and ball control analysis. The program leverages 
@@ -93,11 +93,11 @@ advanced computer vision techniques to process game footage, delivering detailed
 through annotations and statistics.
 
 <!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
-<img src="assets/project-Football-Game-Analysis.gif" width="600" height="250">
+<img src="assets/project-Football-Game-Analysis.gif" width="600">
 
 
 
-### [Project 3: 🙂 FaceStream: Face recognition and Filters on faces](https://github.com/m4hfuj/FaceStream/tree/version-6)
+### [🙂 face detection and recognition using yolov8 facenet](https://github.com/m4hfuj/FaceStream/tree/version-6)
 
 This Python project processes live video from a webcam or YouTube stream, detecting 
 faces and applying filters in real time. It uses YOLOv8 for face detection,
@@ -106,12 +106,12 @@ mapping. With an intuitive PyQt5 interface, users can input YouTube links,
 upload photos, and save recognized faces, enabling a seamless and interactive 
 experience.
 
-<img src="assets/project-facestream.gif" width="600" height="250">
+<img src="assets/project-facestream.gif" width="600" >
 
 
 
 
-### [Project 4: 🔎 Bangladeshi Tech Job Query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
+### [🔎 bangladeshi tech job query](https://github.com/m4hfuj/bangladeshi-tech-job-query)
 
 This project automates the collection of technical job data from BD Jobs using 
 web scraping and stores it in a MySQL database. Job fields are classified using 
@@ -120,7 +120,7 @@ languages, and packages are identified using regular expressions. A dashboard
 visualizes the top 10 educational requirements, programming languages, and 
 packages, with filtering options by job field.
 
-<img src="assets/project-Tech-Job-Query.png" width="600" height="250">
+<img src="assets/project-Tech-Job-Query.png" width="600" >
 
 
 
