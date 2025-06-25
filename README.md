@@ -1,6 +1,6 @@
 
 
-# Machine Learning Portfolio 🤖
+# Hi, I'm Mirza Mahfuj Hossain
 
 Welcome to my Machine Learning Portfolio! This repository showcases a collection of 
 machine learning projects in various domains, demonstrating my skills and expertise 
@@ -10,20 +10,43 @@ techniques employed
 
 
 
-## 🛠️ Tech Stack for Projects 
+## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux_terminal-E95420?logo=Linux&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-121011?logo=github&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-CC3333?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-29ABE2?logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-316192?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-0078d7?logo=mysql&logoColor=white)
-![Transformer](https://img.shields.io/badge/-Transformer-black?logo=transformer&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+### **ML & AI**
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
+![Transformers](https://img.shields.io/badge/Transformers-000000?style=flat&logo=huggingface&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](#)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)](#)
+
+
+### **Deployment, DevOps & Frameworks**
+[![fastAPI](https://img.shields.io/badge/fastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+[![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+
+### **Programming Languages**
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
+
+
+### **Familiar Platforms**
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](#)
+[![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)](#)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)](#)
+[![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 
 
@@ -41,7 +64,7 @@ techniques employed
 - [<ins><b>©2023 Mirza Mahfuj Hossain. All rights reserved</b></ins>]()
 --- -->
 
-## 🎯 Projects
+### 🎯 Projects & Highlights
 
 Welcome to my Machine Learning Portfolio! This repository showcases my skills and 
 experience in the field of Machine Learning. Here, you will find a collection of 
