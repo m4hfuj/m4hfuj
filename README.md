@@ -120,7 +120,7 @@ languages, and packages are identified using regular expressions. A dashboard
 visualizes the top 10 educational requirements, programming languages, and 
 packages, with filtering options by job field.
 
-<img src="assets/project-Tech-Job-Query.png" width="600" >
+<!-- <img src="assets/project-Tech-Job-Query.png" width="600" > -->
 
 
 
