@@ -74,13 +74,15 @@ data-driven decisions through Machine Learning.
 
 ### [🚍 Vehicle license plate recognition](https://github.com/m4hfuj/automatic-bangla-license-plate-recognition)
 
+Tech Stack: Python, YOLOv8, PyQt5, opencv, PyTorch
+
 Automatic License Plate Recognition (ALPR) is a system that detects and identifies 
 license plates from real-time video footage. It employs YOLO object detection 
 models to locate license plates and extract alphanumeric data. Applications 
 include vehicle tracking and recording entry and exit times in a database.
 
 <!-- ![Automatic License Plate Recognition](assets/project-alpr.gif) -->
-<img src="assets/project-alpr.gif" width="600">
+<!-- <img src="assets/project-alpr.gif" width="600"> -->
 
 
 
@@ -93,7 +95,7 @@ advanced computer vision techniques to process game footage, delivering detailed
 through annotations and statistics.
 
 <!-- ![project-Football-Game-Analysis](assets/project-Football-Game-Analysis.gif) -->
-<img src="assets/project-Football-Game-Analysis.gif" width="600">
+<!-- <img src="assets/project-Football-Game-Analysis.gif" width="600"> -->
 
 
 
